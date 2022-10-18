@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/mariodaniely2003/mariodaniely2003/blob/main/readme_banner.webp" alt="mariosalamanca_banner" />
+<img align="center" src="https://github.com/mariodaniely2003/mariodaniely2003/blob/main/Design%20sem%20nome%20(1).png" alt="mariosalamanca_banner" />
 <h1 align="center">Hi 👋, I'm Mário Salamanca</h1>
 <h3 align="center">A passionate Full-Stack developer from Portugal</h3>
 
