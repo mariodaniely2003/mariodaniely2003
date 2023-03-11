@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariodaniely2003&label=Profile%20views&color=0e75b6&style=flat" alt="mariodaniely2003" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariodaniely2003" alt="mariodaniely2003" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=mariodaniely2003)](https://github.com/mariodaniely2003)
 
 <p align="left"> <a href="https://twitter.com/endframecorp" target="blank"><img src="https://img.shields.io/twitter/follow/endframecorp?logo=twitter&style=for-the-badge" alt="endframecorp" /></a> </p>
 
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **C++ / C**
 
-- 🤝 I’m looking for help with **on any code issues**
+- 🤝 I’m looking for help with **any code issues**
 
 - 👨‍💻 All of my projects are available at [https://mariosalamanca.pt](https://mariosalamanca.pt)
 
